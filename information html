@@ -1,0 +1,174 @@
+<!--  -->
+<!-- HTML -->
+<!-- structure and layout parts which you see on browser are managed by this markup language -->
+<!-- XML is another markup language -->
+<!-- Document of the browser has structure of the webpage -->
+<!-- browser proivdes us tags <> </> -->
+<!DOCTYPE html>
+
+<html>
+    <head>
+        <!-- meta data -->
+        <!-- <meta> used for writing or using meta data -->
+        <title>Welcome to html</title>
+        <!-- some things related to styling either use style tags and also links-->
+
+
+
+
+    </head>
+    <body>
+        <!-- header tags -->
+        <!-- h1 to h6 -->
+        <h1>Hi ,welcome to html</h1>
+        <h2>welcome to html</h2>
+<h3>welcome to html</h3>
+<h4>welcome to html</h4>
+<h5>welcome to html</h5>
+<h6>welcome to html</h6>
+<!-- paragraph tags -->
+<!-- <p>my name i s madhu nkjknjksand</p> -->
+<!-- paragraph tags lorem20 -->
+    <p> lorem 20 mens it is capable of writing 20 words</p>
+<p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Consequuntur nam voluptatibus perferendis, ratione quas tempora nobis officia totam magni. Labore.
+<!-- lists orderd list unorderd lists -->
+<ol>
+    <li>hi</li>
+    <li>hello</li>
+    <li>my</li>
+</ol>
+<ul>
+    <li>hi</li>
+    <li>hell</li>
+</ul>
+<!-- input -->
+<!-- it does  not have closing tag -->
+<!-- attributes of that tag -->
+
+<input type="text">
+<input type="number" placeholder="write a number">
+<input type="text" placeholder="write ur name">
+<input type="email" placeholder="Write your email">
+<input type="password" placeholder ="enter passcode">
+<input type="time" placeholder="enter time">
+<input type="date">
+<input type="temperature">
+<input type="image">
+<input type="music">
+<input type="phone number">
+<input type="telephone">
+<input type="button">
+<!-- radio button -->
+<!-- radio buttons are  -->
+<!-- label tags -->
+<label for="">Choose any of the subject</label>
+
+<input type="radio" name="subject">
+<label for="name">
+    <input type="radio" name="subject" id="name">
+    science
+</label>
+<label for="name2">
+    <input type="radio" name="subject" id="name2">
+    arts
+</label>
+<label for="">choose any of the following
+</label>
+
+<!-- create a option where users can seclect natiponality3 india , usa, uk -->
+<label for="">select any of the 3 nataionality:</label>
+<label for="Indian">
+    <input type="radio" name="nationality" id="India">
+    Indian
+</label>
+<label for="USA"> 
+    <input type="radio" name="nationality" id="USA">
+    USA
+</label>
+<label for="UK">
+    <input type="radio" name="nationality" id="UK">
+    UK
+</label>
+
+<!-- select and option tag -->
+<!-- name and value attribute are usefil to take vlaues using javacript  -->
+<h2> select :</h2>
+<label>Select your country</label>
+<select name="country"> 
+    <option value="USA">USA</option>
+    <option value="UK">UK</option>
+    <option value="INDIA">INDIA</option>
+    <option value="other">other</option>
+</select>
+<!-- create new Html file
+create a web page with htitle as your name portfolio:
+ex:"HEro portfolio"
+header to give details of your education till now, accomplishment
+,intership.
+till now we learmn header ,li,paragrh,ul,ol
+
+now create input box for contact,email,query;
+options: what kind of query:subject,experience,educationb,inrternship
+using radio button.
+
+
+select and option tags to make option where user can select his or her
+gender.-->
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</p></body>
+
+
+
+
+
+</html>
