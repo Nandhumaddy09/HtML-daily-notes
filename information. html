@@ -4,7 +4,7 @@
 <!-- XML is another markup language -->
 <!-- Document of the browser has structure of the webpage -->
 <!-- browser proivdes us tags <> </> -->
-<!DOCTYPE html>
+<!DOCTYPE html
 
 <html>
     <head>
